@@ -1,1 +1,1 @@
-#  From the beginning to the HashMaps all subjects
+#  From the beginning to the Lamda all subjects
