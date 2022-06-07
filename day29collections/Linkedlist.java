@@ -11,7 +11,8 @@ public class Linkedlist {
         a.add(1);
         a.add(2);
         a.add(3);
-        a.add(4);
+        a.add(4); 
+        a.add(5);
 
 //        System.out.println(a.element());
 //        System.out.println(a);
